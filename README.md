@@ -1,24 +1,17 @@
-![<Arducat>](arducat.png)
-
 ## Дарова!
 
-Меня зовут Савва, я программист из России. Мой псевдоним - ArduCat.  
+Меня зовут Савва, я программист из России. Мой псевдоним - SvZ_Code. Старый ник - ArduCat.  
 
-📚 Пишу на: C++, Dlang, Python  
-📖 Учу: FASM  
+📚 Пишу на: C, C++, Dlang, Python  
+📖 Учу: FASM, Kotlin  
 
 Однако я не только программист, я еще и волшебник, работающий с Arch и Alpine Linux :D  
 
 **Я сижу здесь:**  
-Mastodon: https://mastodon.ml/@arducat  
-Bluesky: https://bsky.app/profile/arducat.bsky.social  
-Telegram канал: https://t.me/arducat  
-
-## One moment...
-Я перешел на свой локальный Forjego сервер. Все мои репозитории, кроме этого, всего лишь зеркало с моего локального сервера и сервера Foxity.  
+Telegram канал: https://t.me/svz_code  
  
 ## Статистика:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arducat&theme=radical&layout=compact" alt="Собственно, статистика" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svz-code&theme=radical&layout=compact" alt="Собственно, статистика" />
 
 !! Статистика может быть слегка outdated !!
