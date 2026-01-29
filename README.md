@@ -12,6 +12,6 @@ Telegram канал: https://t.me/svz_code
  
 ## Статистика:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svz-code&theme=radical&layout=compact" alt="Собственно, статистика" />
+![Собственно, статистика](./stats.svg)
 
 !! Статистика может быть слегка outdated !!
